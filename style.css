@@ -1,0 +1,74 @@
+content {
+  text-align: center;
+}
+
+body {
+  background-color: #dbd0b4;
+  font-family:fantasy;
+}
+
+h1 {
+  color: #5A2A27;
+  text-decoration: underline;
+  font-size: 100;
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.section_header, h1 {
+  text-align: center;
+}
+
+h2 {
+  color: #9c7e2d;
+  font-size: 30;
+}
+
+h3 {
+  color: #FFFFF0;
+  font-size: 25;
+}
+
+.summary {
+  display: none;
+}
+
+.book {
+  display: inline-block;
+  width: 450px;
+  text-align: center;
+  background-color: #FFFFF0;
+  padding: 10px;
+  margin: 10px;
+  border: #5A2A27, 10px;
+}
+
+h4 {
+  color: #5A2A27;
+  font-size: 24;
+}
+
+p {
+  font-size: 18px;
+}
+
+footer {
+  text-align: right;
+}
+
+.end {
+  display: inline-block;
+  margin-right: 100px;
+  background-color: #FFFFF0;
+  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+/* Warm Beige: #F5F1E6
+Rich Mahogany: #5A2A27
+Leather Brown: #8B5E34
+Antique Gold: #C1A65C
+Soft Ivory: #FFFFF0 */
+
+/*# sourceMappingURL=style.css.map */
